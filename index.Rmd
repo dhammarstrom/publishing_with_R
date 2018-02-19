@@ -1,0 +1,6 @@
+---
+title: "index"
+author: "Daniel Hammarström"
+date: "19 februar 2018"
+output: html_document
+---
